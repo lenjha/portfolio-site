@@ -38,6 +38,10 @@ ul {
   color: #eeeeee;
 }
 
+.btn-nav1 {
+  margin-top: 50px;
+}
+
 .card-header {
   background-color: #dddddd;
   text-align: center;
@@ -60,6 +64,7 @@ ul {
 
 .image1 {
   border-radius: 50px;
+  border: 3px solid white;
   margin-left: auto;
   margin-right: auto;
   margin-top: 25px;
@@ -112,6 +117,10 @@ ul {
 .project-images img {
   width: 100%;
   border: 5px solid white;
+}
+
+p.sidebar-text {
+  margin-top: 10%;
 }
 
 .sidebar {
