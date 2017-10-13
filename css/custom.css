@@ -1,4 +1,4 @@
-h1, p, li {
+h1, h3, h4, p, li {
   font-family: 'Play', sans-serif;
 }
 
@@ -12,13 +12,14 @@ ul {
 }
 
 .about-text {
+  clear: both;
   font-style: italic;
 }
 
 .btn-primary {
-  color: white !important;
-  background-color: black;
-  border-color: black;
+  color: white;
+  background-color: gray;
+  border-color: gray;
   margin: 5px;
 }
 
@@ -28,12 +29,13 @@ ul {
 }
 .card-text {
   text-align: justify;
+  font-style: italic;
 }
 
 .cluster {
-  float:left;
+  float: left;
   margin: 10px;
   padding: 10px;
   background-color: lightgray;
-  width: 30%;
+  width: 45%;
 }
