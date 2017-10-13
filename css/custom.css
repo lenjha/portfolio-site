@@ -20,8 +20,10 @@ ul {
 }
 
 .blockquote-footer {
+  color: #aaaaaa;
   text-align: right;
-  margin-right: 18%;
+  margin-right: 5%;
+  margin-bottom: 1%;
 }
 
 .btn-primary {
@@ -41,7 +43,7 @@ ul {
   text-align: center;
   font-size: 20px;
 }
-.card-text {
+.card-me {
   padding: 10px;
   text-align: justify;
   font-style: italic;
@@ -64,7 +66,7 @@ ul {
   text-align: center;
 }
 
-.intro-card {
+.text-card {
   background-color: #777777;
   border-radius: 20px;
   color: #cccccc;
