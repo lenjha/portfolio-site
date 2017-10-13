@@ -1,20 +1,19 @@
-
-##Epicodus Portfolio Project##
+## Epicodus Portfolio Project ##
 
 _This is a solo portfolio project done in class, 10-13-2017_
 
 By _Lena Ha_
 
 
-##Description##
+### Description ###
 _This application is a portfolio website intended to display growing skills in HTML, CSS, and Bootstrap; it is to be later used as a landing page for my programming portfolio._
 
-##Setup/Installation Requirements##
+### Setup/Installation Requirements ###
 _Git must be initiated_
 _Clone https://github.com/lenjha/portfolio-site.git using the Terminal_
 
-##Technologies Used##
+### Technologies Used ###
 _HTML, CSS, Bootstrap_
 
-##License##
+### License ###
 Copyright (c) 2017 _Lena Ha_
