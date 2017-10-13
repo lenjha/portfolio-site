@@ -44,6 +44,7 @@ ul {
   font-size: 20px;
 }
 .card-me {
+  margin: auto;
   padding: 10px;
   text-align: justify;
   font-style: italic;
@@ -86,16 +87,17 @@ ul {
   font-size: 100px;
 }
 
-/*.projects {
-  padding: 2%;
-}*/
-
 .project-images {
-  
+  text-align: center;
+}
+
+.project-images img {
+  margin: 2%;
 }
 
 .sidebar {
   background-color: #777777;
+  border-radius: 30px;
   color: #cccccc;
 }
 
