@@ -18,8 +18,8 @@ ul {
 
 .btn-primary {
   color: white;
-  background-color: gray;
-  border-color: gray;
+  background-color: #aaaaaa;
+  border-color: #aaaaaa;
   margin: 5px;
 }
 
@@ -28,6 +28,7 @@ ul {
   font-size: 20px;
 }
 .card-text {
+  padding: 10px;
   text-align: justify;
   font-style: italic;
 }
@@ -38,4 +39,8 @@ ul {
   padding: 10px;
   background-color: lightgray;
   width: 45%;
+}
+
+.work-desc {
+  font-style: italic;
 }
