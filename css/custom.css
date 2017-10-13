@@ -2,15 +2,24 @@ h1, p, li {
   font-family: 'Play', sans-serif;
 }
 
+ul {
+  list-style: none;
+}
+
 .image1 {
   border-radius: 10px;
+  margin: 10px;
+}
+
+.about-text {
+  font-style: italic;
 }
 
 .btn-primary {
-  text-align: center;
   color: white !important;
   background-color: black;
   border-color: black;
+  margin: 5px;
 }
 
 .card-header {
