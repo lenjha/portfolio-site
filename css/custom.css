@@ -7,6 +7,18 @@ h1, p, li {
 }
 
 .btn-primary {
-  color: #gray !important;
-  background-color: #gray !important;
+  color: white !important;
+  background-color: black;
+  border-color: black;
+}
+
+.card-header {
+  text-align: center;
+  font-size: 20px;
+}
+
+.cluster {
+  float:left;
+  margin: 20px;
+  background-color: gray;
 }
