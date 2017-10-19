@@ -4,9 +4,6 @@ blockquote {
 
 body {
   background-color: #dddddd;
-}
-
-h1, h2, h3, h4, p, li {
   font-family: 'Anonymous Pro', monospace;
 }
 
@@ -49,8 +46,6 @@ ul {
 }
 .card-me {
   padding: 10px;
-  text-align: justify;
-  font-style: italic;
 }
 
 .cluster {

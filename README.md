@@ -9,6 +9,7 @@ By _Lena Ha_
 _This application is a portfolio website intended to display growing skills in HTML, CSS, and Bootstrap; it is to be later used as a landing page for my programming portfolio._
 
 ### Setup/Installation Requirements ###
+_Access the Terminal_
 _Git must be initiated_
 _Clone https://github.com/lenjha/portfolio-site.git using the Terminal_
 
