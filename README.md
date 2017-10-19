@@ -11,7 +11,7 @@ _This application is a portfolio website intended to display growing skills in H
 ### Setup/Installation Requirements ###
 _Access the Terminal_
 _Git must be initiated_
-_Clone https://github.com/lenjha/portfolio-site.git using the Terminal_
+_Clone by typing "git clone https://github.com/lenjha/portfolio-site.git"_
 
 ### Technologies Used ###
 _HTML, CSS, Bootstrap_
