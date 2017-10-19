@@ -39,6 +39,10 @@ ul {
   margin-top: 50px;
 }
 
+.btn-primary {
+  width: 100%;
+}
+
 .card-header {
   background-color: #dddddd;
   text-align: center;
